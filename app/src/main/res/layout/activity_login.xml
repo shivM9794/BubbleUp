@@ -278,4 +278,48 @@
 
     </LinearLayout>
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:gravity="center"
+        android:orientation="vertical">
+
+<!--        <TextView-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="GFG | First App"-->
+<!--            android:textColor="#fafafa"-->
+<!--            android:textSize="30dp" />-->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Use your fingerprint to login"
+            android:textColor="#fafafa"
+            android:textSize="18sp" />
+
+<!--        <ImageView-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginVertical="20dp"-->
+<!--            android:src="@drawable/ic_baseline_fingerprint_24" />-->
+
+        <TextView
+            android:id="@+id/msgtext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textSize="18sp" />
+
+<!--        <Button-->
+<!--            android:id="@+id/login"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginVertical="20dp"-->
+<!--            android:background="#fafafa"-->
+<!--            android:text="Login" />-->
+
+    </LinearLayout>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
