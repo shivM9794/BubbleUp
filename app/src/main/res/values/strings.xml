@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bubble Up</string>
+
+    <string name="reschedule_or_cancel">Don\'t have an account <font color='#FF0000'>Click Here</font></string>
+    <string name="add_address">OR\n <font color='#FF0000'>Click Here To Add New Address</font></string>
+    <string name="copy_right" translatable="false">Copyrights © %1$d</string>
+</resources>
